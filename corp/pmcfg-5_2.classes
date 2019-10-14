@@ -7,7 +7,7 @@
 "N" ["NP_2", "NP_1", "NN_1"]
 "PROAV" ["PROAV_1"]
 "PTK" ["PTKNEG_1", "PTKVZ_1", "PTKZU_1"]
-"\949" ["\949"]
+"e" ["e"]
 "V" ["VP_1", "VVFIN_1", "VP_2", "VZ_1", "VAINF_1", "VVINF_1", "VVPP_1", "VP_3", "VVIZU_1", "VMFIN_1", "VAFIN_1"]
 "PPER" ["PPER_1"]
 "$," ["$,_1"]
@@ -19,3 +19,4 @@
 "CNP" ["CNP_1", "CNP_3"]
 "ADJ" ["ADJA_1", "ADJD_1"]
 "AP" ["APPR_1", "APPRART_1"]
+"ELSE" *

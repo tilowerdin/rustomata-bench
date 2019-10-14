@@ -6,7 +6,7 @@
 "MPN" ["MPN_1"]
 "N" ["NN_1", "NE_1", "NP_2", "NP_4", "NP_1", "NP_3"]
 "PPER" ["PPER_1"]
-"\949" ["\949"]
+"e" ["e"]
 "PTK" ["PTKZU_1", "PTKNEG_1", "PTKVZ_1"]
 "ISU" ["ISU_1"]
 "$," ["$,_1"]
@@ -25,3 +25,4 @@
 "ADJ" ["ADJD_1", "ADJA_1"]
 "ART" ["ART_1"]
 "CS" ["CS_3", "CS_5", "CS_2"]
+"ELSE" *

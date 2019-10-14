@@ -2,7 +2,7 @@
 "VAINF" ["VAINF_1"]
 "PIAT" ["PIAT_1"]
 "ART" ["ART_1"]
-"\949" ["\949"]
+"e" ["e"]
 "ISU" ["ISU_1"]
 "PTKZU" ["PTKZU_1"]
 "CVP" ["CVP_3"]
@@ -41,3 +41,4 @@
 "ADJA" ["ADJA_1"]
 "VVFIN" ["VVFIN_1"]
 "PRF" ["PRF_1"]
+"ELSE" *

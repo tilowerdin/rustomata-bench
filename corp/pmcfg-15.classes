@@ -38,9 +38,10 @@
 "VAFIN" ["VAFIN_1"]
 "APPRART" ["APPRART_1"]
 "PP" ["PP_2", "PP_1"]
-"\949" ["\949"]
+"e" ["e"]
 "VVFIN" ["VVFIN_1"]
 "S" ["S_2", "S_4", "S_3", "S_1"]
 "PDAT" ["PDAT_1"]
 "ART" ["ART_1"]
 "CS" ["CS_3", "CS_5", "CS_2"]
+"ELSE" *

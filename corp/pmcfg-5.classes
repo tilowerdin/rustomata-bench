@@ -28,10 +28,11 @@
 "VP" ["VP_1", "VP_2", "VP_3"]
 "PROAV" ["PROAV_1"]
 "ADV" ["ADV_1"]
-"\949" ["\949"]
+"e" ["e"]
 "KON" ["KON_1"]
 "PPER" ["PPER_1"]
 "$(" ["$(_1"]
 "PPOSAT" ["PPOSAT_1"]
 "VZ" ["VZ_1"]
 "$," ["$,_1"]
+"ELSE" *

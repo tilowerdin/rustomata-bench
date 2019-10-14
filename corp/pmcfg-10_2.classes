@@ -1,4 +1,4 @@
-"\949" ["\949"]
+"e" ["e"]
 "$," ["$,_1"]
 "KO" ["KON_1", "KOUS_1"]
 "PD" ["PDAT_1"]
@@ -23,3 +23,4 @@
 "V" ["VVINF_1", "VVIZU_1", "VAINF_1", "VVPP_1", "VVFIN_1", "VAFIN_1", "VP_2", "VP_1", "VZ_1", "VP_3", "VMFIN_1"]
 "PTK" ["PTKVZ_1", "PTKNEG_1", "PTKZU_1"]
 "N" ["NP_1", "NE_1", "NP_2", "NN_1"]
+"ELSE" *

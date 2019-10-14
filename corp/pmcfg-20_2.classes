@@ -16,7 +16,7 @@
 "ISU" ["ISU_1"]
 "CVP" ["CVP_3"]
 "PRE" ["PRELS_1"]
-"\949" ["\949"]
+"e" ["e"]
 "CNP" ["CNP_3", "CNP_1"]
 "N" ["NP_4", "NP_2", "NE_1", "NP_1", "NP_3", "NN_1"]
 "PPO" ["PPOSAT_1"]
@@ -27,3 +27,4 @@
 "AP" ["AP_1", "APPRART_1", "APPR_1"]
 "MPN" ["MPN_1"]
 "$(" ["$(_1"]
+"ELSE" *
