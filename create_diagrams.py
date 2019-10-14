@@ -130,9 +130,9 @@ for ctf in l:
 			if p < 3:
 				height = p * 2
 
-			gray = 75
+			gray = 60
 			if p < 1:
-				gray = 35
+				gray = 30
 
 			f.write("\\node [minimum width=" + str(height) + "cm,"
 				+ "anchor=north west,"
